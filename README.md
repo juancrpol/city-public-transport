@@ -19,7 +19,7 @@ This project is designed to improve the mobility of the city of Neiva. By knowin
 
 It is used by using an application for mobile devices. During the day, users will be able to access the most appropriate routes to reach their destination using artificial intelligence. The users are all people residing in the city of Neiva, especially people of legal age and foreigners who do not know the city.
 
-![Phone App](https://afar.brightspotcdn.com/dims4/default/57dad41/2147483647/strip/true/crop/2618x1745+191+0/resize/900x600!/quality/90/?url=https%3A%2F%2Fk3-prod-afar-media.s3.us-west-2.amazonaws.com%2Fbrightspot%2F19%2F4c%2F4a9ba05c4c46b9892c327ccf199d%2Fgoogle-maps-logo-on-a-smartphone-stock-image-shutterstock-2449752853.jpg))
+![Phone App](https://afar.brightspotcdn.com/dims4/default/57dad41/2147483647/strip/true/crop/2618x1745+191+0/resize/900x600!/quality/90/?url=https%3A%2F%2Fk3-prod-afar-media.s3.us-west-2.amazonaws.com%2Fbrightspot%2F19%2F4c%2F4a9ba05c4c46b9892c327ccf199d%2Fgoogle-maps-logo-on-a-smartphone-stock-image-shutterstock-2449752853.jpg)
 
 
 ## Data sources and AI methods
