@@ -1,6 +1,6 @@
 # Public Transport with AI
 
-Final project for the Building AI course
+Building AI course project | Final project for the Building AI course
 
 ## Summary
 
@@ -45,6 +45,3 @@ The project can grow by replicating locally in restricted areas such as township
 
 * The SETP Neiva refers to the Strategic Public Transport System of Neiva, which is a transport system designed to improve mobility in the city of Neiva.
 * Migo is a public transport system in Neiva, Colombia, that aims to provide an efficient and accessible alternative for citizens.
-
-
-## Building AI course project
