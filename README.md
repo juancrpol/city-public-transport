@@ -40,6 +40,8 @@ Regarding ethical issues, we must take into account the biases that artificial i
 
 The project can grow by replicating locally in restricted areas such as townships and expanding nationally to cities that have not implemented a viable public transportation network.
 
+## Building AI course project
+
 
 ## Acknowledgments
 
