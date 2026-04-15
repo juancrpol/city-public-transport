@@ -40,10 +40,11 @@ Regarding ethical issues, we must take into account the biases that artificial i
 
 The project can grow by replicating locally in restricted areas such as townships and expanding nationally to cities that have not implemented a viable public transportation network.
 
-## Building AI course project
-
 
 ## Acknowledgments
 
 * The SETP Neiva refers to the Strategic Public Transport System of Neiva, which is a transport system designed to improve mobility in the city of Neiva.
 * Migo is a public transport system in Neiva, Colombia, that aims to provide an efficient and accessible alternative for citizens.
+
+
+## Building AI course project
